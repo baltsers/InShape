@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Original artifact | <https://sites.google.com/site/hpcaius/home/prj_inbox> |
+| Original artifact | <https://sourceforge.net/projects/inshape-3d> |
 | Imported from | the publications page |
 | Tool | `pubs2github` |
 
